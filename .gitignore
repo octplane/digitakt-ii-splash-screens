@@ -1,0 +1,16 @@
+# Nothing derived from Elektron firmware belongs in this repository.
+*.syx
+*.bin
+*.hex
+*_readme.html
+release-notes.txt
+*.png
+intro_frames/
+assets_index.txt
+
+# third-party, build it yourself (see README)
+elektron-firmware-tool/
+
+.direnv/
+__pycache__/
+*.pyc
