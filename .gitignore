@@ -6,6 +6,7 @@
 release-notes.txt
 *.png
 intro_frames/
+# note: screenshots/ holds photographs of the device, not extracted assets
 assets_index.txt
 
 # third-party, build it yourself (see README)

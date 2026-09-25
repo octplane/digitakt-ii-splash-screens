@@ -16,6 +16,12 @@ The repository history was started fresh for publication rather than carried
 over from the working notes, so none of the above appears in earlier commits
 either.
 
+The `screenshots/` directory holds photographs of a physical instrument's
+display, taken by the author, with all camera metadata stripped. These are
+photographs of a running device, in the same sense as any product photo or
+forum post, and are not assets extracted from the firmware. Extracted artwork
+is excluded as described above and remains excluded.
+
 What is included is original work: a decoder and a decompressor written from
 observation, three byte patches, a build script, and documentation of the
 mechanism. The documentation quotes short strings and addresses where they are

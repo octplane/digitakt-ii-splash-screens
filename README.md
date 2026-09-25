@@ -8,6 +8,21 @@ scripts to apply it to a firmware image you already have.
 
 It contains no Elektron firmware, artwork, fonts or code.
 
+## The five
+
+All photographed on one instrument after the patch, across ordinary restarts.
+
+| | |
+|---|---|
+| ![](screenshots/splash-2-boombox.jpg) | ![](screenshots/splash-3-more-is-more.jpg) |
+| ![](screenshots/splash-4-portrait.jpg) | ![](screenshots/splash-5-dither.jpg) |
+
+![](screenshots/splash-1-scatter.jpg)
+
+Several are animated rather than static, so a still photograph only catches one
+frame. Which routine draws which screen has not been pinned down, so they are
+not labelled here.
+
 ## Why you only see one
 
 The firmware really does choose between five boot animations. A selector reads
